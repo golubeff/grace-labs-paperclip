@@ -96,3 +96,4 @@ Once Paperclip is running, this wrapper is transparent — it just passes throug
 
 **Paperclip starts but agents can't connect**
 → Make sure `PAPERCLIP_DEPLOYMENT_EXPOSURE=public` is set so the server accepts external connections.
+# Updated Mon Apr  6 18:10:49 UTC 2026
